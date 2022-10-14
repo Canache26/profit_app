@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "profitapp-f00e9": {
+      "hosting": {
+        "profit-app": [
+          "profitapp-f00e9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "profitapp-f00e9"
+  }
+}
